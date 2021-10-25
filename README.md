@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kazalnsl
-- 👀 I’m interested in machine learning, deep learning, softwate testing
+- 👀 I’m interested in machine learning, deep learning, software testing
 
 - 📫 How to reach me ...
 
